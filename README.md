@@ -1,3 +1,5 @@
+assets/logo.png
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="BizCopilot Logo" width="120" />
