@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://mangweninokuthula7.github.io/bizcopilot/">View Live Demo</a> · 🐞 <a href="https://github.com/mangweninokuthula7/bizcopilot/issues">Report Bug</a> · ✨ <a href="https://github.com/mangweninokuthula7/bizcopilot/pulls">Request Feature</a>
+  🌐 <a href="https://mangweninokuthula7.github.io/bizcopilot/">View Live Demo</a> · 
+  🐞 <a href="https://github.com/mangweninokuthula7/bizcopilot/issues/new?labels=bug">Report Bug</a> · 
+  ✨ <a href="https://github.com/mangweninokuthula7/bizcopilot/pulls">Request Feature</a>
 </p>
 
 ---
@@ -60,6 +62,7 @@ npm install
 
 # 4️⃣ Run the app locally
 npm start
+
 
 ## 💡 Usage
 
