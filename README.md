@@ -66,6 +66,8 @@ npm install
 # 4️⃣ Run the app locally
 npm start
 
+to automatically send client progress reports every Friday, track team tasks, and get performance insights on one dashboard.*
+
 ## 💡 Usage
 
 Once the application is up and running, you can start exploring BizCopilot’s features to manage and automate your business operations.
@@ -102,3 +104,15 @@ Once the application is up and running, you can start exploring BizCopilot’s f
 Here’s a simple example of how a small business might use BizCopilot:
 
 > 💼 *A small digital agency uses BizCopilot to automatically send client progress reports every Friday, track team tasks, and get performance insights on one dashboard.*
+
+---
+
+### 🎥 (Optional) Add a Demo GIF or Screenshot
+
+To make your README even more attractive, include a short GIF showing how BizCopilot works:
+
+```markdown
+<p align="center">
+  <img src="assets/screenshots/demo.gif" width="80%" alt="BizCopilot Demo" />
+</p>
+
