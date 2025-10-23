@@ -88,7 +88,7 @@ Once the application is up and running, you can explore BizCopilot’s features 
 ## 👩‍💻 Developer
 
 **Created by:** Nokuthula Mangweni  
-📧 Email: [nokuthulambeje@yahoo.com](mailto:nokuthulambeje@yahoo.com)  
+📧 Email: [nokuthula.mangweni@sedgent.com](mailto:nokuthu.mangweni@sedgent.com)  
 🌍 GitHub: [https://github.com/mangweninokuthula7](https://github.com/mangweninokuthula7)
 
 ## 🪪 License
