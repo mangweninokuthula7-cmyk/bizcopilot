@@ -96,3 +96,10 @@ Once the application is up and running, explore BizCopilot’s features to manag
 ### 🧭 Example Workflow
 
 > 💼 *A small digital agency uses BizCopilot to automatically send client progress reports every Friday, track team tasks, and get performance insights on one dashboard.*
+---
+
+## 👩‍💻 Developer
+
+**Created by:** Nokuthula Mangweni  
+📧 [nokuthulambeje@yahoo.com](mailto:nokuthulambeje@yahoo.com)  
+🌍 [GitHub Profile](https://github.com/mangweninokuthula7)
