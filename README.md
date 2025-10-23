@@ -1,4 +1,8 @@
 # Bizcapilot
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Tech](https://img.shields.io/badge/Built%20With-React-orange)
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="BizCopilot Logo" width="100" height="100">
