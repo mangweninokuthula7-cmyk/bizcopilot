@@ -60,3 +60,38 @@ npm install
 
 # 4️⃣ Run the app locally
 npm start
+
+## 💡 Usage
+
+Once the application is up and running, you can explore BizCopilot’s features to manage and automate your business operations.
+
+### 🪄 How to Use BizCopilot
+
+1. **Sign Up / Log In**  
+   Create a new account or log in with existing credentials. Your data is securely stored and synced across devices.
+
+2. **Set Up Your Workspace**  
+   Add your business information and customize your dashboard.
+
+3. **Automate Tasks**  
+   Schedule reminders, generate reports, or track progress automatically.
+
+4. **Monitor Insights**  
+   View analytics and export performance reports.
+
+5. **Manage Collaborations**  
+   Invite teammates or clients and communicate in-app.
+
+6. **Log Out Securely**  
+   End your session to protect your data.
+
+## 👩‍💻 Developer
+
+**Created by:** Nokuthula Mangweni  
+📧 Email: [nokuthulambeje@yahoo.com](mailto:nokuthulambeje@yahoo.com)  
+🌍 GitHub: [https://github.com/mangweninokuthula7](https://github.com/mangweninokuthula7)
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
