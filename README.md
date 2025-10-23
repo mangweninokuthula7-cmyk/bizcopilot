@@ -1,4 +1,9 @@
-assets/logo.png
+<p align="center">
+  <img src="assets/logo.png" alt="BizCopilot Logo" width="150" />
+</p>
+
+<h1 align="center">🚀 BizCopilot</h1>
+
 
 <!-- PROJECT LOGO -->
 <p align="center">
