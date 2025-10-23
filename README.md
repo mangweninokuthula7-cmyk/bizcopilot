@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://your-github-username.github.io/bizcopilot/">View Live Demo</a> · 🐞 <a href="https://github.com/your-github-username/bizcopilot/issues">Report Bug</a> · ✨ <a href="https://github.com/your-github-username/bizcopilot/pulls">Request Feature</a>
+  🌐 <a href="https://mangweninokuthula7.github.io/bizcopilot/">View Live Demo</a> · 🐞 <a href="https://github.com/mangweninokuthula7/bizcopilot/issues">Report Bug</a> · ✨ <a href="https://github.com/mangweninokuthula7/bizcopilot/pulls">Request Feature</a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ It helps users automate repetitive tasks, track key metrics, and manage resource
 
 ```bash
 # 1️⃣ Clone the repo
-git clone https://github.com/your-github-username/bizcopilot.git
+git clone https://github.com/mangweninokuthula7/bizcopilot.git
 
 # 2️⃣ Navigate into the project
 cd bizcopilot
@@ -60,4 +60,3 @@ npm install
 
 # 4️⃣ Run the app locally
 npm start
-
