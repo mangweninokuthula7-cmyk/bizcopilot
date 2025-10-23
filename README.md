@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen" />
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue" />
-  <img alt="Tech" src="https://img.shields.io/badge/Built%20With-React-orange" />
+  <img alt="Tech" src="https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JavaScript-orange" />
 </p>
 
 <p align="center">
@@ -41,10 +41,9 @@ It helps users automate repetitive tasks, track key metrics, and manage resource
 ---
 
 ## 🧰 Tech Stack
-**Frontend:** React · HTML · CSS · JavaScript  
-**Backend:** Node.js · Express · Firebase (optional)  
-**Database:** MongoDB / PostgreSQL  
-**Deployment:** GitHub Pages / Vercel / Netlify
+**Frontend:** HTML · CSS · JavaScript  
+**Backend:** None (Static HTML Project)  
+**Deployment:** GitHub Pages
 
 ---
 
@@ -57,13 +56,9 @@ git clone https://github.com/mangweninokuthula7/bizcopilot.git
 # 2️⃣ Navigate into the project
 cd bizcopilot
 
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Run the app locally
-npm start
-
-
+# 3️⃣ Open the project
+Double-click index.html to open in your browser
+```
 ## 💡 Usage
 
 Once the application is up and running, you can explore BizCopilot’s features to manage and automate your business operations.
@@ -88,11 +83,15 @@ Once the application is up and running, you can explore BizCopilot’s features 
 6. **Log Out Securely**  
    End your session to protect your data.
 
+---
+
 ## 👩‍💻 Developer
 
 **Created by:** Nokuthula Mangweni  
-📧 Email: [nokuthula.m@sedgent.co.za](mailto:nokuthu.m@sedgent.co.za)  
+📧 Email: [nokuthula.m@sedgent.co.za](mailto:nokuthula.m@sedgent.co.za)  
 🌍 GitHub: [https://github.com/mangweninokuthula7](https://github.com/mangweninokuthula7)
+
+---
 
 ## 🪪 License
 
