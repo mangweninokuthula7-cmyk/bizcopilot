@@ -60,3 +60,39 @@ npm install
 
 # 4️⃣ Run the app locally
 npm start
+---
+
+## 💡 Usage
+
+Once the application is up and running, explore BizCopilot’s features to manage and automate your business operations.
+
+### 🪄 How to Use BizCopilot
+
+1. **Sign Up / Log In**
+   - Create a new account or log in with existing credentials.
+   - Your data is securely stored and synced across devices.
+
+2. **Set Up Your Workspace**
+   - Add your business information (name, goals, and preferences).
+   - Customize your dashboard to match your priorities.
+
+3. **Automate Tasks**
+   - Use BizCopilot to schedule reminders, generate reports, or track progress automatically.
+   - Configure triggers and workflows to simplify routine processes.
+
+4. **Monitor Insights**
+   - View live analytics on your dashboard (sales, tasks, revenue, etc.).
+   - Export performance reports to CSV or PDF for easy sharing.
+
+5. **Manage Collaborations**
+   - Invite teammates or clients.
+   - Assign roles, share updates, and communicate directly within the app.
+
+6. **Log Out Securely**
+   - End your session to protect your data.
+
+---
+
+### 🧭 Example Workflow
+
+> 💼 *A small digital agency uses BizCopilot to automatically send client progress reports every Friday, track team tasks, and get performance insights on one dashboard.*
